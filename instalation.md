@@ -1,4 +1,4 @@
-# Instalation, Setting Up.
+# Installation, Setting Up.
 
 ## PHP
 
